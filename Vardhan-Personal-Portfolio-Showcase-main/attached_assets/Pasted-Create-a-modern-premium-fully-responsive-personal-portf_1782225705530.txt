@@ -1,0 +1,167 @@
+Create a modern, premium, fully responsive personal portfolio website for **Vardhan Karri**, an Engineering Student, Technology Enthusiast, and Lifelong Learner.
+
+### Design Requirements
+
+* Modern and professional UI/UX
+* Dark theme with elegant gradients and glassmorphism effects
+* Smooth animations and scroll effects
+* Mobile-first responsive design
+* Attractive hero section with profile image placeholder
+* Clean typography and professional color palette
+* Sticky navigation bar
+* Interactive project cards
+* Animated skill progress indicators
+* Contact form with social media links
+* SEO-friendly structure
+
+### Hero Section
+
+Name: **Vardhan Karri**
+
+Location:
+📍 Visakhapatnam, Andhra Pradesh, India
+
+Tagline:
+**Engineering Student | Technology Enthusiast | Lifelong Learner**
+
+Description:
+Currently pursuing a B.Tech in Electronics and Computer Engineering. Passionate about building innovative projects, exploring emerging technologies, and developing solutions that create real-world impact. Constantly learning, growing, and turning ideas into reality through technology.
+
+Add:
+
+* Download Resume button
+* Contact Me button
+* Social links for GitHub and LinkedIn
+
+### About Me
+
+I am pursuing B.Tech in Electronics and Computer Engineering at VIIT. I am passionate about Data Analytics, Web Development, and Artificial Intelligence. I enjoy solving real-world problems using technology and transforming data into actionable insights.
+
+### Technical Skills
+
+Display skills in categorized cards with icons:
+
+#### Programming & Data Analytics
+
+* Python
+* SQL
+* Excel
+* Power BI
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+#### Web Development
+
+* HTML5
+* CSS3
+* JavaScript
+
+#### Tools
+
+* GitHub
+
+### Education Timeline
+
+#### B.Tech (ECM)
+
+Vignan's Institute of Information Technology
+2024 - 2027
+
+#### Diploma (CME)
+
+Sai Ganapathi Polytechnic College
+2021 - 2024
+
+### Featured Projects
+
+#### Heart Disease Data Analysis
+
+Description:
+Performed data cleaning, exploratory data analysis, visualization, and insight generation using Python, Pandas, NumPy, and Matplotlib.
+
+Buttons:
+
+* GitHub Repository
+
+#### Personal Portfolio Website
+
+Description:
+Fully responsive personal portfolio website built using HTML and CSS.
+
+Live Demo:
+https://vardhan-it.github.io/VARDHAN-INFORMATION_WORLD/
+
+Buttons:
+
+* Live Demo
+* GitHub
+
+#### Eventica Website
+
+Description:
+Modern event management website with clean UI and responsive design.
+
+Live Demo:
+https://vardhan-it.github.io/eventica-1/
+
+Buttons:
+
+* Live Demo
+* GitHub
+
+### Certifications
+
+Display certification cards:
+
+* Python Essentials 1 – Cisco
+* Python Essentials 2 – Cisco
+* AI Tools & ChatGPT Workshop – be10x
+* SUSHACKS 2025 Innovation Hackathon
+
+### Achievements Section
+
+Create a visually appealing section highlighting:
+
+* Continuous Learning
+* Data Analytics Enthusiast
+* Web Development Projects
+* Innovation Hackathon Participant
+
+### Contact Section
+
+Email:
+[vardhankarri2005@gmail.com](mailto:vardhankarri2005@gmail.com)
+
+Phone:
+6301280218
+
+Social Links:
+
+* GitHub
+* LinkedIn
+
+Include:
+
+* Contact Form
+* Email button
+* Phone button
+* Social media icons
+
+### Footer
+
+Display:
+"© 2026 Vardhan Karri. All Rights Reserved."
+
+### Technical Requirements
+
+* Use HTML5, CSS3, and JavaScript
+* Fully responsive across mobile, tablet, and desktop
+* Smooth scrolling navigation
+* Scroll reveal animations
+* Hover effects on buttons and cards
+* Fast loading and optimized performance
+* Professional portfolio suitable for internships and placements
+* Clean, maintainable code structure
+* Add favicon and SEO meta tags
