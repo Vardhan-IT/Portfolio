@@ -28,10 +28,10 @@ export function About() {
             className="space-y-6"
           >
             <p className="text-lg text-muted-foreground leading-relaxed">
-              I am pursuing B.Tech in Electronics and Computer Engineering at VIIT. I am passionate about <strong className="text-foreground">Data Analytics, Web Development, and Artificial Intelligence</strong>.
+              I am a B.Tech ECM student at Vignan&apos;s Institute of Information Technology aspiring to become a <strong className="text-foreground">Data Analyst</strong>. I&apos;m skilled in Python, SQL, Excel, Power BI, and various data analysis libraries like Pandas, NumPy, Matplotlib, and Seaborn.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed">
-              I enjoy solving real-world problems using technology and transforming data into actionable insights. My journey involves continuously learning modern frameworks, exploring complex datasets, and building tools that matter.
+              I am passionate about <strong className="text-foreground">data cleaning, exploratory data analysis, and data visualization</strong>. I also leverage AI tools and prompt engineering to improve productivity and solve real-world problems. My goal is to drive informed decision-making through data-driven insights.
             </p>
           </motion.div>
 

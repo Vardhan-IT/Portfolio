@@ -9,10 +9,10 @@ const educationData = [
     description: "Pursuing Bachelor of Technology in Electronics and Computer Engineering. Focusing on the intersection of hardware and software.",
   },
   {
-    degree: "Diploma (CME)",
-    institution: "Sai Ganapathi Polytechnic College",
+    degree: "Diploma (CE)",
+    institution: "Sai Ganapathi Polytechnic",
     period: "2021 – 2024",
-    description: "Completed Diploma in Computer Engineering with strong foundational knowledge in programming and computer systems.",
+    description: "Completed Diploma in Computer Engineering with strong foundational knowledge in programming, computer systems, and software development.",
   }
 ];
 

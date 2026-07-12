@@ -3,28 +3,28 @@ import { Zap, Code, Database, Trophy } from "lucide-react";
 
 const achievements = [
   {
-    title: "Continuous Learning",
-    description: "Constantly upgrading skills with modern tools",
-    icon: Zap,
-    color: "text-yellow-400"
-  },
-  {
-    title: "Data Analytics Enthusiast",
-    description: "Transforming raw data into meaningful stories",
+    title: "Data Analytics Specialist",
+    description: "Skilled in data cleaning, EDA, and visualization",
     icon: Database,
     color: "text-primary"
   },
   {
-    title: "Web Development Projects",
-    description: "Building responsive and interactive web applications",
+    title: "AI-Assisted Developer",
+    description: "Proficient with ChatGPT, Claude, Cursor AI, v0.dev",
     icon: Code,
     color: "text-secondary"
   },
   {
-    title: "Innovation Hackathon",
-    description: "Participant in SUSHACKS 2025",
+    title: "SUSHACKS 2025 Participant",
+    description: "Innovation Hackathon participant",
     icon: Trophy,
     color: "text-orange-400"
+  },
+  {
+    title: "Continuous Learner",
+    description: "Multiple certifications in Python & AI Tools",
+    icon: Zap,
+    color: "text-yellow-400"
   }
 ];
 
