@@ -17,11 +17,6 @@ const certifications = [
     title: "AI Tools & ChatGPT Workshop",
     issuer: "be10x",
     date: "March 2025"
-  },
-  {
-    title: "Innovation Hackathon",
-    issuer: "SUSHACKS 2025",
-    date: "2025"
   }
 ];
 

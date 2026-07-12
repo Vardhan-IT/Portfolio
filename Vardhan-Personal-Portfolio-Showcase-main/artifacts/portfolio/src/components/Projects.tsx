@@ -6,24 +6,24 @@ import { Button } from "@/components/ui/button";
 const projects = [
   {
     title: "Heart Disease Data Analysis",
-    description: "Performed data cleaning, exploratory data analysis, visualization, and insight generation to understand the factors contributing to heart disease.",
-    tags: ["Python", "Pandas", "NumPy", "Matplotlib"],
+    description: "Cleaned and analyzed healthcare data using Pandas, NumPy, Matplotlib and Seaborn. Identified key trends through comprehensive exploratory data analysis and generated actionable insights.",
+    tags: ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
     links: {
       github: "https://github.com/Vardhan-IT",
     }
   },
   {
     title: "Personal Portfolio Website",
-    description: "Fully responsive personal portfolio website built to showcase my skills, projects, and educational background with a modern dark theme.",
-    tags: ["HTML", "CSS", "JavaScript"],
+    description: "Responsive portfolio built with React.js, TypeScript, HTML5, and CSS3 deployed on Vercel. Showcases skills, projects, and educational background with modern design.",
+    tags: ["React.js", "TypeScript", "HTML5", "CSS3", "GitHub Pages"],
     links: {
       github: "https://github.com/Vardhan-IT",
-      live: "https://vardhan-it.github.io/VARDHAN-INFORMATION_WORLD/"
+      live: "https://portfolio-bywmzb4zd-vardhankarri.vercel.app/"
     }
   },
   {
     title: "Eventica Website",
-    description: "Modern event management website with clean UI and responsive design, aimed at making event discovery and booking seamless.",
+    description: "Event management website with modern UI and responsive design. Focuses on seamless event discovery and booking experience using clean, intuitive design patterns.",
     tags: ["HTML", "CSS", "JavaScript"],
     links: {
       github: "https://github.com/Vardhan-IT",

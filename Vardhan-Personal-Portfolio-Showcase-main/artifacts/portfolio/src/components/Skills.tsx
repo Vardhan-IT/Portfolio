@@ -6,12 +6,17 @@ type SkillIconType = React.ComponentType<{ className?: string; style?: React.CSS
 
 const skillCategories = [
   {
-    title: "Programming & Data Analytics",
+    title: "Programming & Analytics",
     skills: [
       { name: "Python", icon: SiPython as SkillIconType, color: "#3776AB" },
       { name: "SQL", icon: SiSqlite as SkillIconType, color: "#00758F" },
       { name: "Excel", icon: FileSpreadsheet as SkillIconType, color: "#217346" },
       { name: "Power BI", icon: BarChart2 as SkillIconType, color: "#F2C811" },
+    ]
+  },
+  {
+    title: "Data Analysis Libraries",
+    skills: [
       { name: "Pandas", icon: Code2 as SkillIconType, color: "#150458" },
       { name: "NumPy", icon: Code2 as SkillIconType, color: "#013243" },
       { name: "Matplotlib", icon: TrendingUp as SkillIconType, color: "#11557c" },
@@ -19,18 +24,26 @@ const skillCategories = [
     ]
   },
   {
-    title: "Web Development",
+    title: "AI & Productivity",
     skills: [
-      { name: "HTML5", icon: SiHtml5 as SkillIconType, color: "#E34F26" },
-      { name: "CSS3", icon: Code2 as SkillIconType, color: "#1572B6" },
-      { name: "JavaScript", icon: SiJavascript as SkillIconType, color: "#F7DF1E" },
+      { name: "ChatGPT", icon: Code2 as SkillIconType, color: "#10a37f" },
+      { name: "Claude", icon: Code2 as SkillIconType, color: "#0ea5e9" },
+      { name: "Cursor AI", icon: Code2 as SkillIconType, color: "#6366f1" },
+      { name: "v0.dev", icon: Code2 as SkillIconType, color: "#ec4899" },
     ]
   },
   {
-    title: "Tools",
+    title: "Web Technologies",
     skills: [
+      { name: "HTML", icon: SiHtml5 as SkillIconType, color: "#E34F26" },
+      { name: "CSS", icon: Code2 as SkillIconType, color: "#1572B6" },
+    ]
+  },
+  {
+    title: "Version Control",
+    skills: [
+      { name: "Git", icon: SiGithub as SkillIconType, color: "#F1502F" },
       { name: "GitHub", icon: SiGithub as SkillIconType, color: "#ffffff" },
-      { name: "VS Code", icon: Terminal as SkillIconType, color: "#007ACC" },
     ]
   }
 ];
